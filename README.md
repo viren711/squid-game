@@ -40,8 +40,6 @@ The project repository is structured as follows:
 - `main.ino`: The main Arduino sketch file.
 - `images/`: A folder containing images used in this README.
 
-![SQUID GAME](images/squid-game.jpg)
-
 ## Requirements
 
 Before you begin, ensure you have the following:
