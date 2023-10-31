@@ -83,4 +83,3 @@ This project stands as a testament to the incredible potential of merging techno
 [![Watch Red Light Green Light Game](images/squid.jpg)](https://www.youtube.com/watch?v=sH4Y450PSVM)
 -
 <h6 align=left>Click on SQUID GAME to see the video</h6>
----
