@@ -71,7 +71,7 @@ Before you begin, ensure you have the following:
    <br>
    ![Connection](images/connection.jpg)
    <br>
-   ![Connections](images/connections.jpg)
+   ![Setup](images/setup.jpg)
 
 This project stands as a testament to the incredible potential of merging technology with education and entertainment. It showcases the limitless possibilities of technology-driven experiences. We're excited to continue pushing the boundaries, exploring new features, and enhancing the game's experience for all.
 
