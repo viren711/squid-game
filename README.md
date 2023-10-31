@@ -40,8 +40,6 @@ The project repository is structured as follows:
 - `main.ino`: The main Arduino sketch file.
 - `images/`: A folder containing images used in this README.
 
-![SQUID GAME](images/squid-game.jpg)
-
 ## Requirements
 
 Before you begin, ensure you have the following:
@@ -69,16 +67,20 @@ Before you begin, ensure you have the following:
    ```bash
    git clone https://github.com/viren711/squid-game.git
 
----
+2. Make connections of components as shown in the image:
+   <br>
+   ![Connection](images/connection.jpg)
+   <br>
+   ![Setup](images/setup.jpg)
 
 This project stands as a testament to the incredible potential of merging technology with education and entertainment. It showcases the limitless possibilities of technology-driven experiences. We're excited to continue pushing the boundaries, exploring new features, and enhancing the game's experience for all.
 
 <div align="center">
   "Technology allows us to push the boundaries of what's possible and redefine the way we learn and have fun."
 </div>
+---
 
-![Squid Game](images/squid.jpg)
+[![Watch Red Light Green Light Game](images/squid.jpg)](https://www.youtube.com/watch?v=sH4Y450PSVM)
+-
+<h6 align=left>Click on SQUID GAME to see the video</h6>
 ---
-[Watch Red Light Green Light Game](https://www.youtube.com/watch?v=sH4Y450PSVM)
----
-<h3>Project Images</h3>
